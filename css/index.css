@@ -5,12 +5,14 @@ body {
 header {
   background-color: #c9c4c9;
   text-align: center;
-
+  background-image: url(img/fondo-header.jpg);
+  background-size: cover;
+  min-height: 122px;
+  background-position: 0 -120px;
 }
 
 h1 {
   color:white;
   margin: 0;
   font-size: 46px;
-
 }
